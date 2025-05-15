@@ -1,1 +1,1 @@
-# -for-Java-ProjectsAI-Code-Review-Assistant
+# AI-Code Review Assistant for Java Projects 
